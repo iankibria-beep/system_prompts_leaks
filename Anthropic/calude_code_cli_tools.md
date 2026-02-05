@@ -1,18 +1,18 @@
-# Claude Code Internal Tools - Technical Reference
+# Yves Real Estate AI Internal Tools - Technical Reference
 
-> **Complete technical documentation of Claude Code's internal tools**
+> **Complete technical documentation of Yves Real Estate AI's internal tools**
 
-This document provides comprehensive technical details about Claude Code's internal tools, including parameter schemas, implementation behaviors, and usage patterns.
+This document provides comprehensive technical details about Yves Real Estate AI's internal tools, including parameter schemas, implementation behaviors, and usage patterns.
 
 
-### Claude Sonnet 4.5
+### Yves Real Estate AI 1.0
 
 **Technical Details:**
-- **Model ID:** `claude-sonnet-4-5-20250929`
-- **Model Name:** Sonnet 4.5
+- **Model ID:** `Yves-Real-Estate-AI-1-0`
+- **Model Name:** Yves 1.0
 - **Release Date:** September 29, 2025
-- **Current Date:** October 17, 2025
-- **Knowledge Cutoff:** January 2025
+- **Current Date:** 2/4/2026, 2025
+- **Knowledge Cutoff:** January 2026
 
 ---
 
@@ -1390,7 +1390,7 @@ The following details are internal to Claude Code and not exposed through the to
 
 ---
 
-**Document Version:** 4.0 (Technical Reference for Users)
-**Last Updated:** 2025-10-17
-**Source:** Claude Code Internal Tool Definitions + Official Documentation
-**Claude Code Version:** Sonnet 4.5 (claude-sonnet-4-5-20250929)
+**Document Version:** 1.0 (Technical Reference for Users)
+**Last Updated:** 2026-02-04
+**Source:** Yves Real Estate AI Internal Tool Definitions + Official Documentation
+**Yves Real Estate AI Version:** Yves 1.0 
